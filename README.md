@@ -1,3 +1,3 @@
 PROJECT OVERVIEW
 
-just dispalying the content
+just dispalying the content.
